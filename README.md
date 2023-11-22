@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @InfinitePower85
-I'm just a random online human
+By day, I'm Andy C. By night, I'm... still Andy C, but I go by InfinitePower85 too I guess. 
 
 - 👀 I’m interested in django web development, unity game development and artifical intelligence. 
 - 🌱 I’m currently learning Django web development
